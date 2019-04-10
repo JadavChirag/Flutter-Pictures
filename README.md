@@ -8,7 +8,7 @@ This project was made for learning the bloc architecture pattern and Inherited W
 ## Questions?🤔
 
 Hit me on twitter [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/JadavRadhe?s=09)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohakgupta-blue.svg)](https://www.linkedin.com/in/jadav-chirag-8945a2156)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chiragjadav-blue.svg)](https://www.linkedin.com/in/jadav-chirag-8945a2156)
 
 ## How to Contribute
 1. Clone the Project
@@ -28,7 +28,7 @@ For help getting started with Flutter, view online
 
 ```sh
 $ git clone https://github.com/JadavChirag/Fluutter-Pictures.git
-$ cd Flutter-Movies/
+$ cd Flutter-Pictures/
 ```
 
 #### 4. Run the app
